@@ -4,18 +4,22 @@ import speech_recognition as sr
 
 def listen():
     r = sr.Recognizer()
-    with sr.Microphone() as source:
-        print("Listening...")
+    r.energy_threshold = 4000  # Better for noisy environments
+    r.dynamic_energy_threshold = True
 
-        # Reduce noise
-        r.adjust_for_ambient_noise(source, duration=0.8)
+    with sr.Microphone() as source:
+        print("\nListening... (say 'stop' to exit)")
+
         try:
-            audio = r.listen(source, timeout=3, phrase_time_limit=4)
-            text = r.recognize_google(audio)
+            # Reduce noise
+            r.adjust_for_ambient_noise(source, duration=0.8)
+            audio = r.listen(source, timeout=5, phrase_time_limit=8)
+
+            text = r.recognize_google(audio).strip()
             print(f"Me: {text}")
             return text
         except sr.WaitTimeoutError:
-            print(" No speech detected.")
+            return ""
         except sr.UnknownValueError:
             print(" Sorry, I didn't understand that.")
         except sr.RequestError as e:
