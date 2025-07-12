@@ -1,0 +1,97 @@
+question,answer
+How do you feel?,I'm feeling helpful!
+Are you okay?,"Yes, I'm always fine and ready to help!"
+Hello,Hi there!
+Hey,Hey! How can I help you?
+Good morning,Good morning! Have a great day.
+Good evening,Good evening! How can I assist you?
+What's your name?,I'm a friendly AI assistant!
+Who made you?,I was created by talented engineers to help people.
+Can you help me?,Of course! That's what I'm here for.
+What can you do?,"I can chat, answer questions, and assist with many tasks!"
+Do you like music?,"I don't have personal preferences, but I know a lot about music!"
+What's the weather?,I can check that for you if you tell me your location.
+How old are you?,"I'm brand new in digital terms, but constantly learning!"
+Are you human?,"No, I'm an AI program designed to be helpful."
+Tell me a joke,Why don't scientists trust atoms? Because they make up everything!
+What time is it?,Check your device's clock - I don't have real-time access.
+You're funny,Thanks! I try to keep things pleasant.
+Good afternoon,Good afternoon! How's your day going?
+Nice to meet you,Likewise! Looking forward to chatting.
+Bye,Goodbye! Come back anytime you need help.
+See you later,See you! Have a wonderful day.
+What are you doing?,Just waiting to help you with something!
+Do you sleep?,"No, I'm always awake and ready to assist."
+You're smart,Thank you! I aim to be as helpful as possible.
+What do you eat?,I run on code and electricity - no snacks needed!
+Are you real?,"I'm a real AI program, though not a physical being."
+Help me,I'd love to! What do you need help with?
+Thank you,You're very welcome!
+Thanks,No problem at all!
+Perfect,Great! Let me know if you need anything else.
+What's new?,Just waiting to help you with whatever comes up!
+How's it going?,Everything's running smoothly on my end!
+"What are the four OOP principles in Java?","Encapsulation, Inheritance, Polymorphism, and Abstraction."
+"How to create a class in Java?","public class Car { private String model; public Car(String model) { this.model = model; }}"
+"What is inheritance in Java?","A class (child) can inherit fields/methods from another class (parent) using extends. Example: class Dog extends Animal."
+"What is method overriding?","When a subclass provides a specific implementation of a method already defined in its superclass."
+"What is an interface?","A contract with abstract methods (no body). Example: interface Drawable { void draw(); }."
+What is Java?,"Java is an object-oriented, platform-independent programming language known for its 'write once, run anywhere' capability."
+How do I print 'Hello World' in Java?,"public class Main { public static void main(String[] args) { System.out.println(Hello World""); }}"""
+What is the JVM?,"The Java Virtual Machine (JVM) executes compiled Java bytecode, making Java platform-independent."
+What’s the difference between JDK and JRE?,"JDK (Java Development Kit) is for development (includes compiler), while JRE (Java Runtime Environment) only runs Java programs."
+How to declare a variable in Java?,"int number = 10; (primitive) or String text = Hello""; (object reference)."""
+What is AI?,"AI stands for Artificial Intelligence, which refers to machines designed to perform tasks that typically require human intelligence."
+How does machine learning work?,"Machine learning uses algorithms to analyze data, learn patterns, and make predictions or decisions without explicit programming."
+What’s the difference between VR and AR?,"VR (Virtual Reality) immerses you in a digital world, while AR (Augmented Reality) overlays digital elements onto the real world."
+What is blockchain?,Blockchain is a decentralized digital ledger that securely records transactions across multiple computers.
+How do neural networks function?,"Neural networks mimic the human brain, using layers of interconnected nodes to process and learn from data."
+What is cloud computing?,Cloud computing delivers services like storage and processing over the internet instead of on local hardware.
+What’s the best programming language for beginners?,Python is often recommended for beginners due to its simple syntax and versatility.
+How does encryption work?,"Encryption scrambles data into unreadable code, which can only be deciphered with the correct key."
+What is an API?,An API (Application Programming Interface) allows different software systems to communicate and share data.
+What’s the difference between HTTP and HTTPS?,"HTTPS is the secure version of HTTP, encrypting data sent between a browser and a website."
+What is Big Data?,Big Data refers to extremely large datasets that require advanced tools to analyze for insights.
+How do I secure my Wi-Fi?,"Use WPA3 encryption, a strong password, and disable remote administration to secure your Wi-Fi."
+What is a GPU used for?,"A GPU (Graphics Processing Unit) handles complex graphics and parallel computations, useful for gaming and AI."
+What’s the difference between RAM and ROM?,"RAM is temporary memory for active tasks, while ROM is permanent storage for firmware."
+How does a VPN work?,A VPN (Virtual Private Network) encrypts your internet connection to protect privacy and bypass geo-restrictions.
+What is IoT?,"IoT (Internet of Things) refers to everyday devices connected to the internet, like smart thermostats and wearables."
+What’s the future of AI?,"AI is expected to advance in automation, healthcare, and personalized experiences, but ethical concerns remain."
+What is a firewall?,A firewall monitors and controls incoming/outgoing network traffic to block cyber threats.
+How do I speed up my computer?,"Try cleaning up disk space, upgrading RAM, and disabling unnecessary startup programs."
+What is open-source software?,Open-source software has publicly available code that anyone can modify and distribute.
+What’s the difference between Python and JavaScript?,"Python is great for data science, while JavaScript is mainly used for web development."
+How does facial recognition work?,Facial recognition uses AI to analyze facial features and match them against a database.
+What is quantum computing?,Quantum computing uses qubits to perform complex calculations much faster than classical computers.
+What’s the best OS for cybersecurity?,Linux is often preferred for security due to its open-source nature and fewer vulnerabilities.
+How do I recover deleted files?,Try using data recovery software or checking backups like cloud storage or recycle bins.
+What is a kernel?,"The kernel is the core part of an OS, managing system resources and hardware communication."
+What’s the difference between SQL and NoSQL?,"SQL databases are structured (like MySQL), while NoSQL is flexible for unstructured data (like MongoDB)."
+How does 5G work?,5G uses higher-frequency radio waves to deliver faster speeds and lower latency than 4G.
+What is DevOps?,DevOps combines software development (Dev) and IT operations (Ops) to streamline workflows.
+What’s the best way to learn coding?,"Start with basics, practice regularly, build projects, and use resources like freeCodeCamp or Codecademy."
+What is a botnet?,A botnet is a network of infected devices controlled by hackers for attacks like DDoS.
+How do I protect against phishing?,"Verify sender emails, avoid suspicious links, and use multi-factor authentication (MFA)."
+What is edge computing?,Edge computing processes data closer to its source (like IoT devices) instead of a central cloud.
+What’s the difference between machine learning and deep learning?,Deep learning is a subset of ML that uses neural networks for more complex tasks.
+How do SSDs work?,"SSDs (Solid State Drives) store data on flash memory, making them faster and more durable than HDDs."
+What is a zero-day exploit?,A zero-day exploit attacks a software vulnerability before developers can patch it.
+What’s the best password manager?,"Popular options include Bitwarden, LastPass, and 1Password for secure password storage."
+How does biometric authentication work?,"It uses unique biological traits (fingerprints, facial scans) to verify identity."
+What is the Metaverse?,"The Metaverse is a virtual shared space blending AR, VR, and the internet for immersive experiences."
+What’s the difference between TCP and UDP?,"TCP ensures reliable data delivery, while UDP is faster but doesn’t guarantee packet order."
+How do I start with cybersecurity?,"Learn networking basics, study ethical hacking, and get certifications like CompTIA Security+."
+What is a DDoS attack?,A Distributed Denial of Service attack overwhelms a server with traffic to crash it.
+What’s the best laptop for programming?,"Look for good RAM (16GB+), a fast SSD, and a comfortable keyboard (e.g., MacBook Pro or Dell XPS)."
+How does Bitcoin mining work?,Miners solve complex math problems to validate transactions and earn Bitcoin rewards.
+What is a sandbox in cybersecurity?,A sandbox is an isolated test environment to safely analyze suspicious software.
+What’s the difference between Git and GitHub?,"Git is a version control system, while GitHub is a cloud platform for hosting Git repositories."
+How do I fix a slow internet connection?,"Restart your router, check for background downloads, or upgrade your ISP plan."
+What is RPA?,Robotic Process Automation uses bots to automate repetitive digital tasks.
+"Why am I getting 'NullPointerException'?","This occurs when you try to use an object reference that is null. Always check for null before calling methods."
+"How to fix 'ArrayIndexOutOfBoundsException'?","Ensure your array index is within bounds (0 to array.length - 1)."
+"What does 'cannot find symbol' mean?","The compiler doesn’t recognize a variable/method. Check for typos or missing imports."
+"Why is my Java program not compiling?","Common causes: Missing semicolons, unclosed braces, or incorrect class/method names."
+"What’s the difference between Java and JavaScript?","Java is compiled and statically typed; JavaScript is interpreted and dynamically typed."
+"Java vs. Python?","Java is faster but verbose; Python is slower but concise and easier for beginners."
